@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world! V 2.0");
+		System.out.println("Hello world! V 2.1");
 	}
 
 }
